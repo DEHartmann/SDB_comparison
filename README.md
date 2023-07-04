@@ -1,4 +1,4 @@
-# Modelling the near-shore bathymetry of southwest Puerto Rico with multispectral and hyperspectral imagery, using different empirical models:
+# Modelling the near-shore bathymetry of Puerto Rico with multispectral and hyperspectral imagery, using empirical models:
 1) Stumpf et al. (2003) band ratio model (Sentinel-2)
 2) Ma et al. (2014) band ratio model (PRISMA)
 3) XGBoost (Sentinel-2)
